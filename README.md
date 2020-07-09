@@ -1,7 +1,5 @@
 ### Xavi Esteve
 
-Hi there!
-
 Here's some things that might interest you:
 
 - [My personal website](https://xaviesteve.com/)
